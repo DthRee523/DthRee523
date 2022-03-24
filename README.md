@@ -33,11 +33,11 @@
 [![github](https://img.shields.io/badge/GitHub-DthRee523-black?style=flat-square&logo=github)](https://github.com/DthRee523)
 
 </div>
-
+  
 <div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dthree523&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dthree523&theme=nord_bright)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dthree523&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dthree523&theme=nord_bright)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dthree523&theme=nord_bright)
-  
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dthree523&theme=nord_bright" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dthree523&theme=nord_bright" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dthree523&theme=nord_bright" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dthree523&theme=nord_bright"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dthree523&theme=nord_bright"/>
 </div>
