@@ -12,7 +12,7 @@
 [![android](https://img.shields.io/badge/OS-Android-blue?style=flat-square&logo=android)](https://www.android.com/)
 [![xfce](https://img.shields.io/badge/DE-Xfce-blue?style=flat-square&logo=xfce)](https://www.xfce.org/)
 [![kde](https://img.shields.io/badge/DE-kde-blue?style=flat-square&logo=kde)](https://kde.org/)
-[![dde](https://img.shields.io/badge/DE-DDE-blue?style=flat-square&logo=eed)](https://www.deepin.org)
+[![dde](https://img.shields.io/badge/DE-DDE-blue?style=flat-square&logo=deepin)](https://www.deepin.org)
   
 [![Clion](https://img.shields.io/badge/IDE-Clion-blue?style=flat-square&logo=clion)](https://www.jetbrains.com/zh-cn/clion/)
 [![vim](https://img.shields.io/badge/IDE-Vim-blue?style=flat-square&logo=vim)](https://www.vim.org/)
