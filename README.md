@@ -1,16 +1,29 @@
-### Hi there 👋
+### 我是叁， 我现在从事于C++的Windows Linux桌面开发
 
-<!--
-**DthRee523/DthRee523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 坐标 哈尔滨
+- 极度热爱C/C++ && Linux
+- 喜欢写代码 遇到问题睡不着觉
 
-Here are some ideas to get you started:
+单身狗一枚！希望可以找到一个女朋友~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+[![OS:manjro](https://img.shields.io/badge/OS-Manjro-green?style=flat-square&logo=manjaro)](https://manjaro.org/)
+[![OS:android](https://img.shields.io/badge/OS-Android-blue?style=flat-square&logo=android)](https://www.android.com/)
+[![DE:xfce](https://img.shields.io/badge/DE-Xfce-blue?style=flat-square&logo=xfce)](https://www.xfce.org/)
+[![DE:kde](https://img.shields.io/badge/DE-kde-blue?style=flat-square&logo=kde)](hhttps://kde.org/)
+[![IDE:Clion](https://img.shields.io/badge/IDE-Clion-blue?style=flat-square&logo=clion)](https://www.jetbrains.com/zh-cn/clion/)
+[![IDE:vim](https://img.shields.io/badge/IDE-Vim-blue?style=flat-square&logo=vim)](https://www.vim.org/)
+[![IDE:QT](https://img.shields.io/badge/IDE-QTCreator-blue?style=flat-square&logo=qt)](https://qt.io/)
+
+[![Email](https://img.shields.io/badge/EMail-liuhuan@dthree.cn-green?style=flat-square&logo=gmail)](mailto:liuhuan@dthree.cn)
+[![twitter](https://img.shields.io/badge/Twitter-dthree0125-blue?style=flat-square&logo=twitter)](https://twitter.com/dthree0125)
+[![telegram](https://img.shields.io/badge/Telegram-dthree523-blue?style=flat-square&logo=telegram)](https://t.me/dthree523)
+
+[![gitee](https://img.shields.io/badge/Gitee-Lutio0215-red?style=flat-square&logo=gitee)](https://gitee.com/Lutio0215)
+[![github](https://img.shields.io/badge/GitHub-DthRee523-black?style=flat-square&logo=github)](https://github.com/DthRee523)
+
+</div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dthree523&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dthree523&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dthree523&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dthree523&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dthree523&theme=github_dark)
