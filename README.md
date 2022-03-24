@@ -14,7 +14,7 @@
 
 <div align="center">
   
-[![manjro](https://img.shields.io/badge/OS-Manjro-green?style=flat-square&logo=manjaro)](https://manjaro.org/)
+[![manjro](https://img.shields.io/badge/OS-Manjaro-green?style=flat-square&logo=manjaro)](https://manjaro.org/)
 [![android](https://img.shields.io/badge/OS-Android-blue?style=flat-square&logo=android)](https://www.android.com/)
 [![xfce](https://img.shields.io/badge/DE-Xfce-blue?style=flat-square&logo=xfce)](https://www.xfce.org/)
 [![kde](https://img.shields.io/badge/DE-kde-blue?style=flat-square&logo=kde)](https://kde.org/)
