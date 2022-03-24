@@ -25,6 +25,10 @@
 
 </div>
 
+<div align="center">
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dthree523&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dthree523&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dthree523&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dthree523&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dthree523&theme=github_dark)
+  
+</div>
