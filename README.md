@@ -8,13 +8,15 @@
 
 <div align="center">
   
-[![OS:manjro](https://img.shields.io/badge/OS-Manjro-green?style=flat-square&logo=manjaro)](https://manjaro.org/)
-[![OS:android](https://img.shields.io/badge/OS-Android-blue?style=flat-square&logo=android)](https://www.android.com/)
-[![DE:xfce](https://img.shields.io/badge/DE-Xfce-blue?style=flat-square&logo=xfce)](https://www.xfce.org/)
-[![DE:kde](https://img.shields.io/badge/DE-kde-blue?style=flat-square&logo=kde)](hhttps://kde.org/)
-[![IDE:Clion](https://img.shields.io/badge/IDE-Clion-blue?style=flat-square&logo=clion)](https://www.jetbrains.com/zh-cn/clion/)
-[![IDE:vim](https://img.shields.io/badge/IDE-Vim-blue?style=flat-square&logo=vim)](https://www.vim.org/)
-[![IDE:QT](https://img.shields.io/badge/IDE-QTCreator-blue?style=flat-square&logo=qt)](https://qt.io/)
+[![manjro](https://img.shields.io/badge/OS-Manjro-green?style=flat-square&logo=manjaro)](https://manjaro.org/)
+[![android](https://img.shields.io/badge/OS-Android-blue?style=flat-square&logo=android)](https://www.android.com/)
+[![xfce](https://img.shields.io/badge/DE-Xfce-blue?style=flat-square&logo=xfce)](https://www.xfce.org/)
+[![kde](https://img.shields.io/badge/DE-kde-blue?style=flat-square&logo=kde)](https://kde.org/)
+[![dde](https://img.shields.io/badge/DE-DDE-blue?style=flat-square&logo=eed)](https://www.deepin.org)
+  
+[![Clion](https://img.shields.io/badge/IDE-Clion-blue?style=flat-square&logo=clion)](https://www.jetbrains.com/zh-cn/clion/)
+[![vim](https://img.shields.io/badge/IDE-Vim-blue?style=flat-square&logo=vim)](https://www.vim.org/)
+[![QT](https://img.shields.io/badge/IDE-QTCreator-blue?style=flat-square&logo=qt)](https://qt.io/)
 
 [![Email](https://img.shields.io/badge/EMail-liuhuan@dthree.cn-green?style=flat-square&logo=gmail)](mailto:liuhuan@dthree.cn)
 [![twitter](https://img.shields.io/badge/Twitter-dthree0125-blue?style=flat-square&logo=twitter)](https://twitter.com/dthree0125)
