@@ -7,6 +7,7 @@
 单身狗一枚！希望可以找到一个女朋友~
 
 <div align="center">
+  
 [![OS:manjro](https://img.shields.io/badge/OS-Manjro-green?style=flat-square&logo=manjaro)](https://manjaro.org/)
 [![OS:android](https://img.shields.io/badge/OS-Android-blue?style=flat-square&logo=android)](https://www.android.com/)
 [![DE:xfce](https://img.shields.io/badge/DE-Xfce-blue?style=flat-square&logo=xfce)](https://www.xfce.org/)
