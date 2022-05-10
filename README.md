@@ -15,8 +15,8 @@
 
 <div align="center">
   
-[![manjro](https://img.shields.io/badge/OS-Manjaro-green?style=flat-square&logo=manjaro)](https://manjaro.org/)
-[![android](https://img.shields.io/badge/OS-Android-blue?style=flat-square&logo=android)](https://www.android.com/)
+[![windows](https://img.shields.io/badge/OS-Windows10-blue?style=flat-square&logo=windows)](https://www.microsoft.com/zh-cn/)
+[![ios](https://img.shields.io/badge/OS-IOS-blue?style=flat-square&logo=apple)](https://www.apple.com.cn/)
 [![xfce](https://img.shields.io/badge/DE-Xfce-blue?style=flat-square&logo=xfce)](https://www.xfce.org/)
 [![kde](https://img.shields.io/badge/DE-kde-blue?style=flat-square&logo=kde)](https://kde.org/)
 [![dde](https://img.shields.io/badge/DE-DDE-blue?style=flat-square&logo=deepin)](https://www.deepin.org)
