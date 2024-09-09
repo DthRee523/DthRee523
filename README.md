@@ -1,13 +1,5 @@
 ### 我是叁， 我现在从事于C++的Windows Linux桌面开发
 
-- 坐标 哈尔滨
-- 极度热爱C/C++ && Linux
-- 喜欢写代码 遇到问题睡不着觉
-- 当前目标 500-1000行/天
-- 喜欢挑战难题 喜欢接触新领域
-- WeChat: LXLWCA(请注明来意)
-- Telegram：dthree523(工作常用)
-
 <div align="center">
   
 [![windows](https://img.shields.io/badge/OS-Windows10-blue?style=flat-square&logo=windows)](https://www.microsoft.com/zh-cn/)
